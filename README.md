@@ -6,8 +6,8 @@
 
 ## 🌟 Submission Overview
 
-- **Public Repository**: [https://github.com/your-username/FlowState-Productivity-Workspace](https://github.com/your-username/FlowState-Productivity-Workspace) *(Replace with your GitHub repo URL)*
-- **3-Minute Video Pitch Script**: Included below in [Video Demo Script](#-3-minute-video-demo-pitch-script)
+- **Public Repository**: https://github.com/Hadia-Mahmood/FlowState-Productivity-Workspace
+- **3-Minute Video Pitch Script**: https://www.loom.com/share/6e81fd5838e44a539559631d756d135b
 - **Technical Overview**: Covered in [Technical Overview & Execution Details](#-technical-overview--execution-details)
 
 ---
@@ -85,7 +85,7 @@ flowchart TD
 ### 1. Clone & Configure
 
 ```bash
-git clone https://github.com/your-username/FlowState-Productivity-Workspace.git
+git clone https://github.com/Hadia-Mahmood/FlowState-Productivity-Workspace
 cd FlowState-Productivity-Workspace
 ```
 
@@ -158,22 +158,6 @@ Creating an immersive dark mode interface without external CSS heavy libraries.
 
 ---
 
-## 📹 3-Minute Video Demo Pitch Script
-
-**[0:00 - 0:30] Introduction & Problem**
-> *"Hi everyone! Today we're introducing **FlowState**, an AI-powered cognitive workspace built to solve task paralysis and cognitive overload. Most productivity apps are just blank lists—they force you to do all the heavy lifting of breaking down goals. FlowState turns high-level ideas into structured execution plans using AI."*
-
-**[0:30 - 1:30] Live Execution & AI Decomposition**
-> *"Let's see it in action. I'll click **Decompose Goal** and enter a project: 'Build a Full-Stack MERN App'. When I submit, our backend sends this prompt to the **Featherless.ai** inference pipeline."*
-> *(Show live UI update)*: *"In seconds, FlowState analyzes the cognitive load (8/10), breaks the goal into 4 distinct milestones, and generates actionable sub-tasks with priority badges and time estimates."*
-
-**[1:30 - 2:15] Focus Mode & Cognitive Briefings**
-> *"Now watch what happens when I click **Focus State** on a task. The UI transitions into a distraction-free execution environment. On the right, the AI provides a **Cognitive Context Briefing**—extracting key deliverables, recommended stack tools, and common pitfalls to avoid. On the left, we have an active Flow State timer and a scratchpad for instant notes."*
-
-**[2:15 - 3:00] Architecture & Technical Polish**
-> *"Under the hood, FlowState is built with React 19, Vite, Express, and MongoDB. It features a resilient architecture with automatic database and AI fallbacks so it never crashes. Thank you for watching!"*
-
----
 
 ## 📚 Citations & References
 
